@@ -1,5 +1,6 @@
 # Recent File Picker Nvim
 Custom plugin to quickly open recent files in neovim.
+Test project to learn lua and neovim plugin development.
 
 ## Installation
 
